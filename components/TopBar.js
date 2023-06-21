@@ -1,7 +1,7 @@
 function TopBar() {
   return (
     <div className="TopBar">
-        <div className="Logo">NMN</div>
+        <a className="Logo" href="/">NMN</a>
         
     </div>
   )
